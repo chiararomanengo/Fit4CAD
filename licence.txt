@@ -1,0 +1,26 @@
+Fit4CAD is Copyright(c) 2021: CNR-IMATI (https://www.imati.cnr.it) 
+All rights reserved.
+
+
+
+This repository is dual-licensed as follows:
+
+1. You may use Fit4CAD as free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the 
+Free Software Foundation; either version 3 of the License, or (at your option) any later version. In this case the repository is distributed in the hope that 
+it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
+See the GNU General Public License (http://www.gnu.org/licenses/gpl.txt) for more details.
+
+2. You may use Fit4CAD as part of a commercial software. In this case a proper agreement must be reached with the Authors and with the institutions based 
+on a proper licensing contract.
+
+You are free to use the Fit4CAD for research purposes according to the licensing terms specified above.
+
+If your research produces publications, please cite the following paper:
+C. Romanengo, A. Raffo, Y. Qie, N. Anwer, B. Falcidieno. Fit4CAD: A point cloud benchmark for fitting simple geometric primitives in CAD models.
+arXiv:2105.06858, 2021.
+
+THIS SOFTWARE IS PROVIDED BY CNR-IMATI "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF 
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL CNR-IMATI AND IIT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, 
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; 
+OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) 
+ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWATE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
