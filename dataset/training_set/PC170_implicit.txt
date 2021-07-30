@@ -1,0 +1,52 @@
+Primitive1 :=[Plane, [1 6.12323e-17 0 300]];
+
+Primitive2 :=[Plane, [0 1 0 300]];
+
+Primitive3 :=[Plane, [0 0 1 -0]];
+
+Primitive4 :=[Plane, [0 1 0 -300]];
+
+Primitive5 :=[Plane, [1 6.12323e-17 0 -300]];
+
+Primitive6 :=[Plane, [0 0 1 -50.8]];
+
+Primitive7 :=[Plane, [-1.83697e-16 1 0 285]];
+
+Primitive8 :=[Plane, [-1 1.22465e-16 0 -215]];
+
+Primitive9 :=[Plane, [-1.83697e-16 1 0 215]];
+
+Primitive10 :=[Plane, [-1 1.22465e-16 0 -285]];
+
+Primitive11 :=[Plane, [0 0 1 400]];
+
+Primitive12 :=[Plane, [-1 -1.22465e-16 0 285]];
+
+Primitive13 :=[Plane, [-1.83697e-16 -1 0 -215]];
+
+Primitive14 :=[Plane, [-1 -1.22465e-16 0 215]];
+
+Primitive15 :=[Plane, [-1.83697e-16 -1 0 -285]];
+
+Primitive16 :=[Plane, [0 -0 1 400]];
+
+Primitive17 :=[Plane, [6.12323e-17 -1 0 285]];
+
+Primitive18 :=[Plane, [1 -2.44929e-16 0 -215]];
+
+Primitive19 :=[Plane, [6.12323e-17 -1 0 215]];
+
+Primitive20 :=[Plane, [1 -2.44929e-16 0 -285]];
+
+Primitive21 :=[Plane, [0 0 1 400]];
+
+Primitive22 :=[Plane, [1 0 0 285]];
+
+Primitive23 :=[Plane, [3.06162e-16 1 0 -215]];
+
+Primitive24 :=[Plane, [1 0 0 215]];
+
+Primitive25 :=[Plane, [3.06162e-16 1 0 -285]];
+
+Primitive26 :=[Plane, [0 0 1 400]];
+

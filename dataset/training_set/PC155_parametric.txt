@@ -1,0 +1,12 @@
+Primitive1:=[Plane, [1 0 -0 -0 1 0 0 0 -2]];
+
+Primitive2:=[Plane, [1 0 -0 -0 1 0 0 0 0]];
+
+Primitive3:=[Cylinder, [6 0 0 0 -6 0 -0 -0 -1 0 0 -2]];
+
+Primitive4:=[Torus, [5 0 -0 -0 5 0 1 0 -0 -0 1 0 0 0 1 0 0 -1]];
+
+Primitive5:=[Plane, [1 0 -0 -0 1 0 0 0 0]];
+
+Primitive6:=[Sphere, [4 0 -0 -0 4 0 0 0 -4 0 0 0]];
+

@@ -1,0 +1,70 @@
+Primitive1 :=[Cylinder, [1 1 0 0 0 0 0 0 0 -226.202]];
+
+Primitive2 :=[Cylinder, [1 1 0 0 0 0 0 0 -35.7604]];
+
+Primitive3 :=[Plane, [0 0 1 -0]];
+
+Primitive4 :=[Plane, [0 0 1 -5.46]];
+
+Primitive5 :=[Plane, [0 0 1 -5.46]];
+
+Primitive6 :=[Plane, [0 0 1 -5.46]];
+
+Primitive7 :=[Plane, [0 0 1 -5.46]];
+
+Primitive8 :=[Plane, [0 0 1 -5.46]];
+
+Primitive9 :=[Plane, [0 0 1 -5.46]];
+
+Primitive10 :=[Plane, [0 0 1 -5.46]];
+
+Primitive11 :=[Plane, [0 0 1 -5.46]];
+
+Primitive12 :=[Plane, [0 0 1 -10.541]];
+
+Primitive13 :=[Plane, [0 0 1 -10.541]];
+
+Primitive14 :=[Plane, [0 0 1 -10.541]];
+
+Primitive15 :=[Plane, [0 0 1 -10.541]];
+
+Primitive16 :=[Plane, [1 0 0 4.024]];
+
+Primitive17 :=[Plane, [1 0 0 4.024]];
+
+Primitive18 :=[Plane, [1 0 0 -3.92]];
+
+Primitive19 :=[Plane, [1 0 0 -3.92]];
+
+Primitive20 :=[Plane, [0 1 0 4.024]];
+
+Primitive21 :=[Plane, [0 1 0 4.024]];
+
+Primitive22 :=[Plane, [0 1 0 -3.92]];
+
+Primitive23 :=[Plane, [0 1 0 -3.92]];
+
+Primitive24 :=[Cylinder, [1 1 0 0 0 0 7.94753 7.94753 0 3.62902]];
+
+Primitive25 :=[Cylinder, [1 1 0 0 0 0 7.94753 -7.94753 0 3.62902]];
+
+Primitive26 :=[Cylinder, [1 1 0 0 0 0 -7.94753 7.94753 0 3.62902]];
+
+Primitive27 :=[Cylinder, [1 1 0 0 0 0 -3.26196e-15 22.479 0 3.62902]];
+
+Primitive28 :=[Cylinder, [1 1 0 0 0 0 22.479 -4.12933e-15 0 3.62902]];
+
+Primitive29 :=[Cylinder, [1 1 0 0 0 0 8.67362e-16 -22.479 0 3.62902]];
+
+Primitive30 :=[Cylinder, [1 1 0 0 0 0 -22.479 1.73472e-15 0 3.62902]];
+
+Primitive31 :=[Cylinder, [1 1 0 0 0 0 -7.94753 -7.94753 0 3.62902]];
+
+Primitive32 :=[Cylinder, [1 1 0 0 0 0 -22.479 3.26196e-15 0 16.004]];
+
+Primitive33 :=[Cylinder, [1 1 0 0 0 0 1.73472e-15 22.479 0 16.004]];
+
+Primitive34 :=[Cylinder, [1 1 0 0 0 0 22.479 -1.73472e-15 0 16.004]];
+
+Primitive35 :=[Cylinder, [1 1 0 0 0 0 8.67362e-16 -22.479 0 16.004]];
+

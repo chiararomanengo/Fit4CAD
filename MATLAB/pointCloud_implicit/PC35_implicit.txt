@@ -1,0 +1,16 @@
+Primitive1 :=[Sphere, [1 1 1 0 0 0 0 -0 0 -203.951]];
+
+Primitive2 :=[Cylinder, [1 1 0 0 0 0 0 -0 -0 -90.7256]];
+
+Primitive3 :=[Cylinder, [1 1 0 0 0 0 0 -0 -0 -90.7256]];
+
+Primitive4 :=[Cylinder, [0 1 1 0 0 0 -0 0 -0 -90.7256]];
+
+Primitive5 :=[Cylinder, [1 0 1 0 0 0 0 -0 -0 -90.7256]];
+
+Primitive6 :=[Cylinder, [0 1 1 0 0 0 -0 0 -0 -90.7256]];
+
+Primitive7 :=[Cylinder, [1 0 1 0 0 0 0 -0 -0 -90.7256]];
+
+Primitive8 :=[Sphere, [1 1 1 0 0 0 0 0 -0 -567.035]];
+

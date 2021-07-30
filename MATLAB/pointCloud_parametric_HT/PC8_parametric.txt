@@ -1,0 +1,60 @@
+Primitive1:=[Cylinder, [12.68 0 0 0 0 12.68 0 1 0 0 0 0]];
+
+Primitive2:=[Cylinder, [16.6 0 0 0 0 16.6 0 1 0 0 0 0]];
+
+Primitive3:=[Cylinder, [16.6 0 0 0 0 16.6 0 1 0 0 0 0]];
+
+Primitive4:=[Cylinder, [16.6 0 0 0 0 16.6 0 1 0 0 0 0]];
+
+Primitive5:=[Plane, [1 0 0 0 1 0 0 0 -6.392]];
+
+Primitive6:=[Plane, [1 0 0 0 1 0 0 0 -1.332]];
+
+Primitive7:=[Plane, [1 0 0 0 1 0 0 0 1.265]];
+
+Primitive8:=[Plane, [1 0 0 0 1 0 0 0 6.325]];
+
+Primitive9:=[Plane, [0 1 0 0 0 1 23.06 0 0]];
+
+Primitive10:=[Plane, [0 1 0 0 0 1 23.06 0 0]];
+
+Primitive11:=[Plane, [1 0 0 0 0 1 0 0 0]];
+
+Primitive12:=[Plane, [1 0 0 0 0 1 0 7.62 0]];
+
+Primitive13:=[Cylinder, [1.778 0 0 0 0 1.778 0 1 0 13.4704 0 13.4704]];
+
+Primitive14:=[Cylinder, [3.175 0 0 0 0 3.175 0 1 0 -13.4704 0 13.4704]];
+
+Primitive15:=[Cylinder, [3.175 0 0 0 0 3.175 0 1 0 -8.69789 0 17.6592]];
+
+Primitive16:=[Cylinder, [3.175 0 0 0 0 3.175 0 1 0 -17.6592 0 8.69789]];
+
+Primitive17:=[Cylinder, [3.175 0 0 0 0 3.175 0 1 0 13.4704 0 13.4704]];
+
+Primitive18:=[Cylinder, [3.175 0 0 0 0 3.175 0 1 0 17.2271 0 9.525]];
+
+Primitive19:=[Cylinder, [3.175 0 0 0 0 3.175 0 1 0 8.69789 0 17.6592]];
+
+Primitive20:=[Cylinder, [3.175 0 0 0 0 3.175 0 1 0 13.4704 0 -13.4704]];
+
+Primitive21:=[Cylinder, [3.175 0 0 0 0 3.175 0 1 0 17.6592 0 -8.69789]];
+
+Primitive22:=[Cylinder, [3.175 0 0 0 0 3.175 0 1 0 8.69789 0 -17.6592]];
+
+Primitive23:=[Cylinder, [1.778 0 0 0 0 1.778 0 1 0 -13.4704 0 -13.4704]];
+
+Primitive24:=[Cylinder, [3.175 0 0 0 0 3.175 0 1 0 -13.4704 0 -13.4704]];
+
+Primitive25:=[Cylinder, [3.175 0 0 0 0 3.175 0 1 0 -8.69789 0 -17.6592]];
+
+Primitive26:=[Cylinder, [3.175 0 0 0 0 3.175 0 1 0 -17.6592 0 -8.69789]];
+
+Primitive27:=[Cylinder, [1.778 0 0 0 0 1.778 0 1 0 -13.4704 0 13.4704]];
+
+Primitive28:=[Cylinder, [1.778 0 0 0 0 1.778 0 1 0 13.4704 0 -13.4704]];
+
+Primitive29:=[Cylinder, [1.35255 0 0 0 1.35255 0 0 0 1 19.4388 3.81 0]];
+
+Primitive30:=[Cylinder, [1.7779 0 0 0 1.7779 0 0 0 1 19.4388 3.8 0]];
+

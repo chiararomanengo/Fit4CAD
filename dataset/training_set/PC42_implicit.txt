@@ -1,0 +1,6 @@
+Primitive1 :=[Sphere, [1 1 1 0 0 0 -0 0 0 -625]];
+
+Primitive2 :=[Plane, [0 0 -1 4.26419e-16]];
+
+Primitive3 :=[Sphere, [1 1 1 0 0 0 -0 0 0 -529]];
+

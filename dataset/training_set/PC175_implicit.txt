@@ -1,0 +1,10 @@
+Primitive1 :=[Cone, [-1 1 1 0 0 0 2 -0 -1.83697e-16 -4]];
+
+Primitive2 :=[Cone, [-1 1 1 0 0 0 -62 0 -1.83697e-16 -3844]];
+
+Primitive3 :=[Cylinder, [0 1 1 0 0 -0 0 0 -1.83697e-16 -9]];
+
+Primitive4 :=[Plane, [1 0 0 60]];
+
+Primitive5 :=[Plane, [1 0 0 -0]];
+

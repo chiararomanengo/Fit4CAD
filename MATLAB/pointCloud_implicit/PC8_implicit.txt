@@ -1,0 +1,64 @@
+Primitive1 :=[Plane, [-1.87261e-16 0 -1 1.27]];
+
+Primitive2 :=[Plane, [4.61196e-48 2.7707e-32 1 -6.35]];
+
+Primitive3 :=[Plane, [-0 1 0 -0]];
+
+Primitive4 :=[Cylinder, [1 1 0 0 0 0 -19.4388 -3.81 0 390.553]];
+
+Primitive5 :=[Cylinder, [1 1 0 0 0 0 -19.4388 -3.81 0 389.221]];
+
+Primitive6 :=[Cylinder, [1 0 1 0 0 0 -13.4704 0 -13.4704 359.741]];
+
+Primitive7 :=[Cylinder, [1 0 1 0 0 0 -13.4704 -0 13.4704 352.822]];
+
+Primitive8 :=[Plane, [1 0 0 -23.058]];
+
+Primitive9 :=[Cylinder, [1 0 1 0 0 0 -0 -0 0 -272.58]];
+
+Primitive10 :=[Cylinder, [1 0 1 0 0 0 -8.69789 0 -17.6592 377.419]];
+
+Primitive11 :=[Cylinder, [1 0 1 0 0 0 13.4704 0 13.4704 352.822]];
+
+Primitive12 :=[Cylinder, [1 0 1 0 0 0 13.4704 0 13.4704 359.741]];
+
+Primitive13 :=[Cylinder, [1 0 1 0 0 0 -17.6592 0 8.69789 377.419]];
+
+Primitive14 :=[Cylinder, [1 0 1 0 0 0 -17.2271 -0 9.525 377.419]];
+
+Primitive15 :=[Cylinder, [1 0 1 0 0 0 13.4704 -0 -13.4704 359.741]];
+
+Primitive16 :=[Cylinder, [1 0 1 0 0 0 -0 -0 0 -161.29]];
+
+Primitive17 :=[Cylinder, [1 0 1 0 0 0 -8.69789 0 17.6592 377.419]];
+
+Primitive18 :=[Plane, [-0 1 0 -7.62]];
+
+Primitive19 :=[Cylinder, [1 0 1 0 0 0 13.4704 0 -13.4704 352.822]];
+
+Primitive20 :=[Cylinder, [1 0 1 0 0 0 -13.4704 0 13.4704 359.741]];
+
+Primitive21 :=[Cylinder, [1 0 1 0 0 0 -13.4704 0 -13.4704 352.822]];
+
+Primitive22 :=[Plane, [-6.56663e-48 3.50667e-32 1 1.27]];
+
+Primitive23 :=[Plane, [1.66454e-16 0 -1 -6.35]];
+
+Primitive24 :=[Cylinder, [1 0 1 0 0 0 -17.2271 0 -9.525 377.419]];
+
+Primitive25 :=[Cylinder, [1 0 1 0 0 0 8.69789 -0 -17.6592 377.419]];
+
+Primitive26 :=[Cylinder, [1 0 1 0 0 0 -17.6592 0 -8.69789 377.419]];
+
+Primitive27 :=[Cylinder, [1 0 1 0 0 0 17.6592 -0 -8.69789 377.419]];
+
+Primitive28 :=[Cylinder, [1 0 1 0 0 0 17.6592 0 8.69789 377.419]];
+
+Primitive29 :=[Cylinder, [1 0 1 0 0 0 -0 -0 0 -272.58]];
+
+Primitive30 :=[Cylinder, [1 0 1 0 0 0 -0 -0 0 -272.58]];
+
+Primitive31 :=[Plane, [1 0 0 -23.058]];
+
+Primitive32 :=[Cylinder, [1 0 1 0 0 0 8.69789 0 17.6592 377.419]];
+

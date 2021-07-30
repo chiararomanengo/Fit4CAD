@@ -1,0 +1,6 @@
+Primitive1:=[Cylinder, [5.5 0 0 0 5.5 0 0 0 1 0 0 0]];
+
+Primitive2:=[Plane, [1 0 0 0 1 0 0 0 0]];
+
+Primitive3:=[Sphere, [10.837 0 0 0 10.837 0 0 0 10.837 0 0 8.83758]];
+

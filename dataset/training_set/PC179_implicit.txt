@@ -1,0 +1,26 @@
+Primitive1 :=[Cone, [1 1 -1.8145 0 0 0 2.1684e-16 0 -17.2908 -164.767]];
+
+Primitive2 :=[Cylinder, [1 1 0 0 0 0 2.1684e-16 0 0 -256.913]];
+
+Primitive3 :=[Sphere, [1 1 1 0 0 0 0 0 -53.5776 2510.34]];
+
+Primitive4 :=[Plane, [0 0 1 -53.5776]];
+
+Primitive5 :=[Cylinder, [1 1 0 0 0 0 2.1684e-16 0 0 -205.627]];
+
+Primitive6 :=[Plane, [0 0 -1 21.049]];
+
+Primitive7 :=[Cylinder, [1 1 0 0 0 0 2.1684e-16 0 0 -576.12]];
+
+Primitive8 :=[Plane, [0 0 1 -14.8875]];
+
+Primitive9 :=[Plane, [0 0 -1 4.56047]];
+
+Primitive10 :=[Cone, [1 1 -1.8145 0 0 0 2.1684e-16 0 -17.2908 -164.767]];
+
+Primitive11 :=[Cylinder, [1 1 0 0 0 0 2.1684e-16 0 0 -256.913]];
+
+Primitive12 :=[Plane, [0 0 1 -0]];
+
+Primitive13 :=[Cylinder, [1 1 0 0 0 0 2.1684e-16 0 0 -517.228]];
+

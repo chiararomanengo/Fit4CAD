@@ -1,0 +1,16 @@
+Primitive1 :=[Cylinder, [0 1 1 0 0 -0 -0 0 0 -4]];
+
+Primitive2 :=[Plane, [-1 0 0 18]];
+
+Primitive3 :=[Cylinder, [0 1 1 0 0 0 -0 0 -0 -324]];
+
+Primitive4 :=[Plane, [1 0 0 -8.67362e-16]];
+
+Primitive5 :=[Cylinder, [0 1 1 0 0 0 -0 0 -0 -169]];
+
+Primitive6 :=[Plane, [-1 0 0 2.56604]];
+
+Primitive7 :=[Cylinder, [0 1 1 0 0 0 -0 0 -0 -20.25]];
+
+Primitive8 :=[Plane, [-1 0 0 8]];
+
