@@ -1,3 +1,14 @@
 # Fit4CAD: A point cloud benchmark for fitting simple geometric primitives in CAD models
 
-Work in progress!
+Code for the 3D Object Retrieval (3DOR) 2021 paper [1], currently accepted for publication.
+
+* The folder "dataset" contains 225 high quality point clouds, each of which was obtained by sampling a CAD object. The dataset is already split into a  training set and a test set.
+
+* The folder "MATLAB" contains the codes and input files used to generate the results presented in [1].
+
+For further details on the benchmark (e.g., the file format, the quality indicators and the accuracy measures), the user is referred to [1].
+
+
+## References
+
+[1] Romanengo, C, Raffo, A, Qie, Y, Anwer, N, Falcidieno, B. Fit4CAD: A point cloud benchmark for fitting simple geometric primitives in CAD models. CoRR 2021;URL: https://arxiv.org/abs/2105.06858.
