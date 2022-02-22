@@ -16,8 +16,7 @@ on a proper licensing contract.
 You are free to use the Fit4CAD for research purposes according to the licensing terms specified above.
 
 If your research produces publications, please cite the following paper:
-C. Romanengo, A. Raffo, Y. Qie, N. Anwer, B. Falcidieno. Fit4CAD: A point cloud benchmark for fitting simple geometric primitives in CAD models.
-arXiv:2105.06858, 2021.
+Romanengo, C, Raffo, A, Qie, Y, Anwer, N, Falcidieno, B. Fit4CAD: A point cloud benchmark for fitting simple geometric primitives in CAD models. Computers & Graphics (2021). DOI: 10.1016/j.cag.2021.09.013.
 
 THIS SOFTWARE IS PROVIDED BY CNR-IMATI "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF 
 MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL CNR-IMATI BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, 
